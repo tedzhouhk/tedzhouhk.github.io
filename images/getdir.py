@@ -1,6 +1,6 @@
 import os
 
-dir='source/images/20230514/'
+dir='source/images/20230610/'
 f=[]
 filearr=os.listdir(dir)
 for f in filearr:
